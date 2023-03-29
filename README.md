@@ -1,1 +1,1 @@
-# IIP Project
+Secure Chat App
